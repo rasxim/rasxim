@@ -1,4 +1,4 @@
-## Rasim Omer
+## Mohammad Rasim Omer
 
 Computer Science and Math-Economics at Lafayette College, class of 2029.
 
@@ -42,10 +42,8 @@ Center. Beta launching to Lafayette students this fall.
 
 ### Working with
 
-Python · Java · SQL · JavaScript · MATLAB
-
-pandas · NumPy · SciPy · matplotlib · FastAPI · React · Node.js · Supabase · Git
+Python · Java · SQL · JavaScript · FastAPI · React · Node.js · Supabase · Git
 
 ---
 
-Easton, PA and Islamabad · [LinkedIn](https://www.linkedin.com/in/mohammadrasim) · omerm@lafayette.edu
+Easton, PA  and [LinkedIn](https://www.linkedin.com/in/mohammadrasim) · omerm@lafayette.edu
