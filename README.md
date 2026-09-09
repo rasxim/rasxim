@@ -1,14 +1,4 @@
-## Mohammad Rasim Omer
-
-Computer Science and Math-Economics at Lafayette College, class of 2029.
-
-I build systems that answer quantitative questions, and I spend most of my
-effort on getting the question right before writing the code.
-
-Looking for a **Summer 2027 internship** in software engineering, data, or
-quantitative research.
-
----
+Hi I am Rasim! I am a Computer Science and Mathematics major at Lafayette College. I am drawn to problems where math, data and software meet particularly towards modeling, optimization, and building scalable systems. I also love analyzing, visualizing and presenting insights from data! Looking for a Summer 2027 Internship in software engineering, data, or quantitative research.
 
 ### Projects
 
