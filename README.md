@@ -5,6 +5,6 @@ I am a Computer Science and Mathematics major at Lafayette College. I am drawn t
 Currently heads-down on PardEats, a nutrition app I co-founded. It meets its
 first real users this fall. Waitlist Live at : https://pardeats.com/
 
-Reach me at  [omerm@lafayette.edu] !
+Reach me at  [omerm@lafayette.edu]
 
 
