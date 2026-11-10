@@ -9,15 +9,15 @@ I'm the co-founder of **PardEats**, a fitness and nutrition app for Lafayette Co
 ### Other cool stuff I've worked on
 
 **[NextUp](https://github.com/rasxim/nextup)** · 1st Place, Environmental Track (out of 31 teams), MakeCU 2026 at Columbia University · [Devpost](https://devpost.com/software/nextup-urs3gb) · [Live site](https://nextup-khaki.vercel.app) · [Demo video](https://www.youtube.com/watch?v=OZj-qjhfW3w)\
-Smart shower-stall screens for shared dorm bathrooms. A Raspberry Pi with a 24 GHz mmWave radar in each stall streams live FREE / OCCUPIED status to a website, so students can see free showers, join a virtual line and get pinged when it's their turn. Busy-hour analytics estimate the wait, and a Gemini-powered chat answers questions like "When should I shower before my 9 a.m.?" from live data. No cameras or microphones for privacy.\
+Live shower availability for dorm bathrooms, using mmWave radar on a Raspberry Pi in each stall, with a virtual line and wait estimates, so you don't have to walk back and forth between your dorm room and the bathroom, can track how much water you use.\
 *Tech stack: Raspberry Pi · FastAPI · React · Tiger Data (TimescaleDB) · Supabase Realtime · Vercel*
 
 **[ClueLess](https://github.com/rasxim/clueless)** · 2nd Most Innovative Idea Award, Lehigh Hackathon 2026 · [Devpost](https://devpost.com/software/clueless-fdj7yo) · [Demo video](https://youtu.be/BK3x3UDiUfQ)\
-An AI study helper that floats over any app, reads the problem on your screen with one keystroke, and coaches you with hints that get more specific each time instead of handing over the answer. It checks math with a math engine, animates code step by step, and supports voice. Currently being tested with 10 students in the CS 110: Intro to Programming class I TA.\
+An AI study buddy that reads any problem on your screen, creates a plan, and gives hints to allow you to think. Students actually learn with AI instead of screenshotting and copy-pasting answers from ChatGPT or Claude. Being tested with 10 students in the CS 110 class I TA.\
 *Tech stack: Electron · React · TypeScript · Claude API · Deepgram · ElevenLabs*
 
 **[Quantum Portfolio Optimization (QuBots)](https://github.com/rasxim/qubots)** · Quantum Leap Award (out of 50 teams), YQuantum 2026 at Yale University · [Devpost](https://devpost.com/software/qubots)\
-We took a quantum-classical approach to insurance portfolio optimization for The Hartford and Capgemini's Quantum Lab. We turned an 8-asset Markowitz problem into a QUBO/Ising model, solved it with QAOA on QuEra's Bloqade neutral-atom simulator, compared it against simulated annealing and classical mean-variance baselines, and stress-tested the portfolios under up to 5% simulated noise and real market scenarios.\
+Insurance portfolio optimization for The Hartford, solved as a QUBO with QAOA on QuEra's neutral-atom simulator and stress-tested under noise.\
 *Tech stack: Python · Bloqade (QuEra) · NumPy · SciPy*
 
 Seeking Summer 2027 internships in software engineering, ML/AI and data. Reach me at [omerm@lafayette.edu](mailto:omerm@lafayette.edu).
