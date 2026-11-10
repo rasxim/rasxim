@@ -1,4 +1,4 @@
-## Hi, I'm Rasim!
+**Hi, I'm Rasim!**
 
 I'm a Computer Science & Math major at Lafayette College. I'm passionate about machine learning, data science and embedded software, and I turn ideas into working products fast (3x Hackathon Winner).
 
