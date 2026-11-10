@@ -2,7 +2,7 @@
 
 I'm a Computer Science & Math major at Lafayette College. I'm passionate about machine learning, data science and embedded software, and I turn ideas into working products fast (3x Hackathon Winner).
 
-I'm the co-founder of **PardEats**, a fitness and nutrition app for Lafayette College students. It integrates with live dining hall menus and allows personalized food logging and tracking. It has 500+ signups and $13K in funding from Lafayette's Bergh Startup Accelerator.\
+I'm the co-founder of **PardEats**, a fitness and nutrition app for Lafayette College students. It integrates with live dining hall menus and allows personalized food logging and tracking (500+ signups and $13K in funding from Lafayette's Bergh Startup Accelerator)
 *Tech stack: React Native · FastAPI · Supabase*
 
 ### Other cool stuff I've worked on
