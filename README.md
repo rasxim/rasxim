@@ -4,7 +4,7 @@ I'm a Computer Science & Math major at Lafayette College. I'm passionate about m
 
 I'm the co-founder of **PardEats**, a fitness and nutrition app for Lafayette College students. It integrates with live dining hall menus and allows personalized food logging and tracking (500+ signups and $13K in funding from Lafayette's Bergh Startup Accelerator)
 
-### Other cool stuff I've worked on
+**Other cool stuff I've worked on:**
 
 **[NextUp](https://github.com/rasxim/nextup)** · 1st Place, Environmental Track (out of 31 teams), MakeCU 2026 at Columbia University · [Devpost](https://devpost.com/software/nextup-urs3gb) · [Live site](https://nextup-khaki.vercel.app) · [Demo video](https://www.youtube.com/watch?v=OZj-qjhfW3w)
 Live shower availability for dorm bathrooms, using mmWave radar on a Raspberry Pi in each stall, with a virtual line and wait estimates, so you don't have to walk back and forth between your dorm room and the bathroom, can track how much water you use.
